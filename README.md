@@ -1,2 +1,4 @@
 ### Olá, eu sou Gabriel da Fonseca Meira!
-<div>[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielFMeira=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</div>
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFMeira)](https://github.com/GabrielFMeira/github-readme-stats)
+
