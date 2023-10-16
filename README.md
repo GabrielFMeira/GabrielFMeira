@@ -1,5 +1,5 @@
 ### Olá, eu sou Gabriel da Fonseca Meira!
-🌱 Atualmene aprendendo Java, Javascript, Typescript, React and Next.js 
+🌱 Atualmene aprendendo Java, Javascript, Typescript, React e Next.js 
 
 
 ##
