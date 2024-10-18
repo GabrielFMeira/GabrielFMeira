@@ -1,5 +1,5 @@
 ### Olá, eu sou Gabriel da Fonseca Meira!
-🌱 Atualmene aprendendo Java, SpringBoot e VueJS 
+🌱 Atualmente aprendendo Java, Spring, Node.js e VueJS 
 
 
 ##
